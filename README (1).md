@@ -4,19 +4,21 @@ An end-to-end business intelligence project built with Power BI, analyzing 2.5 y
 
 ---
 
-## Dashboard Preview
-
 ### Executive Overview
-![Executive Overview](screenshots/01_executive_overview.png)
+<img width="1278" height="721" alt="image" src="https://github.com/user-attachments/assets/6f24e489-95bf-4ce9-8974-f18a15774ac4" />
+
 
 ### Regional Sales Performance
-![Regional Sales](screenshots/02_regional_sales.png)
+<img width="1279" height="715" alt="image" src="https://github.com/user-attachments/assets/9f07eb1b-7bb4-4e69-81ea-91ed01e061bd" />
+
 
 ### Product Performance
-![Product Performance](screenshots/03_product_performance.png)
+<img width="1276" height="717" alt="image" src="https://github.com/user-attachments/assets/a7ef60ea-e457-4dbe-8aac-61925e818fd6" />
+
 
 ### Customer Insights
-![Customer Insights](screenshots/04_customer_insights.png)
+<img width="1277" height="715" alt="image" src="https://github.com/user-attachments/assets/51ef5f47-6df3-40cc-b77c-70fd5fa9f7b8" />
+
 
 ---
 
