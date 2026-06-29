@@ -158,17 +158,4 @@ adventureworks-dashboard/
 - Customer base is nearly evenly split by gender and marital status — broad market appeal
 - The **Southwest US region** is the single largest revenue region at $4.8M
 
----
-
-## How to Use
-
-1. Clone or download this repository
-2. Open the `.pbix` file in Power BI Desktop (if included)
-3. Use Year and Month slicers on the Executive Overview page to filter all visuals
-4. Click any bar or region on the map to cross-filter across charts
-
----
-
-## Author
-
-Built as a Power BI portfolio project. Feel free to connect or reach out for collaboration!
+Loyiha [ https://github.com/Adurasulov-data ] tomonidan tayyorlangan.
